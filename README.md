@@ -3,5 +3,5 @@ Group work carried out by the students: [Luca Arduini](https://github.com/LucaAr
 
 # Brain-Based Wheelchair Control
 <p align="center">
-  <img src="https://github.com/LucaArduini/BrainBasedWheelchairControl/blob/main/2.%20AS-IS%20Simulation/Collapsed%20Layout%20AS-IS.svg" alt="Collapsed_Layout_AS-IS" width="500" />
+  <img src="https://github.com/LucaArduini/BrainBasedWheelchairControl/blob/main/2.%20AS-IS%20Simulation/Collapsed%20Layout%20AS-IS.svg" alt="Collapsed_Layout_AS-IS" width="800" />
 </p>
